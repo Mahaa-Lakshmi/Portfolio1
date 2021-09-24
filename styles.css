@@ -457,7 +457,7 @@ h2 {
 	/*padding: 50px;*/
 	margin-right: auto;
 	margin-left: auto;
-	display: block;
+	display: inline-block;
 	max-width: 100%;
 	font-family: 'Sniglet', cursive;
 
